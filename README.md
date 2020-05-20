@@ -15,4 +15,4 @@ The samples are named like `test.avs3` or `test.ts` in its directory.  For each 
 `AVS3-P2 baseline` Decoder: [uavs3d (Github)][2]
 
   [1]: https://github.com/uavs3/uavs3e.git "uavs3e github repository"
-  [2]: https://github.com/uavs3/uavs3d.git "xavs2 github repository"
+  [2]: https://github.com/uavs3/uavs3d.git "uavs3d github repository"
